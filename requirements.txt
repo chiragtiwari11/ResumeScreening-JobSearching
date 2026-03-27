@@ -1,8 +1,0 @@
-fastapi
-uvicorn
-sqlalchemy
-pydantic
-scikit-learn
-PyPDF2
-streamlit
-requests
